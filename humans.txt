@@ -1,0 +1,20 @@
+/* TEAM */
+
+Developer & Site Owner: Radim Klaška
+Contact: radim [at] klaska.net
+Twitter: @radimklaska
+Location: Teplice, Czech Republic
+Web: https://klaska.net
+
+/* THANKS */
+
+Fonts: Bricolage Grotesque by Mathieu Triay, IBM Plex Sans and IBM Plex Mono by IBM (SIL Open Font License)
+Dashboard: Home Assistant
+
+/* SITE */
+
+Last update: 2026/10/30
+Language: English
+Standards: HTML5, CSS3, llms.txt
+Components: a single hand-written HTML page, no framework, no build step, no tracking
+Deployment: GitHub Pages

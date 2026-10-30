@@ -1,0 +1,15 @@
+# VanAssistant
+
+> Guides, support and integrations for running Home Assistant in a camper van. Coming soon.
+
+VanAssistant covers battery, solar, water, heating and connectivity on the road with Home Assistant: open source, local, and owned by the van owner. It is for van owners and for the people who build vans for them. The site is a placeholder for now; it shows the full Home Assistant dashboard of a real van (lights, alarm, roof fan, heating, fridge, battery and solar gauges, temperature and voltage history, Wi-Fi, doors, occupancy and the van on a map), running locally in the van and reachable from anywhere.
+
+The project is run by Radim Klaška, who uses this setup in his own van, Trailbus.
+
+## Links
+
+- [GitHub](https://github.com/vanassistant)
+- [YouTube](https://www.youtube.com/@vanassistant)
+- [Instagram](https://www.instagram.com/vanassistant/)
+- [Trailbus.eu](https://trailbus.eu): the van behind the project
+- [Radim Klaška](https://klaska.net)
